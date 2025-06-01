@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Oluwadara 👋</h1>
 
 <p align="center">
-  <b>Data Analyst | Problem Solver | Storyteller</b><br>
+  <b>Data Analyst</b><br>
   Turning raw data into meaningful insights
 </p>
 
@@ -9,7 +9,7 @@
 
 ### 🔍 About Me
 
-I’m a results-driven **Data Analyst** passionate about uncovering trends, solving business problems, and delivering actionable insights. My work is centered around clean, structured data pipelines and compelling visual storytelling.
+I’m a results-driven **Data Analyst** passionate about uncovering trends, solving business problems, and delivering actionable insights. My work is centered around clean, structured data pipelines and compelling visualizations.
 
 - 🎯 Strong background in **SQL**, **Excel**, **Python**, and **Tableau**
 - 📊 Experienced in data wrangling, exploration, dashboarding, and automation
@@ -53,8 +53,6 @@ Here are a few projects I’m proud of:
 - 📋 **[FitBit tracker data Analysis](https://github.com/Akoriola/Portfolio_Projects/blob/main/FitBit%20tracker%20data%20Analysis.ipynb)**  
   *Analyzed personal fitness tracker data to uncover user activity trends, calorie expenditure, and sleep patterns; visualized insights using Seaborn and Matplotlib.*
 
-> 📌 *Check the pinned repositories below for more!*
-
 ---
 
 ### 📫 Let's Connect
@@ -62,9 +60,4 @@ Here are a few projects I’m proud of:
 - 📬 Email: Olasunkanmidara01@gmail.com
 - 🌐 Portfolio: [Here is my portfolio website](https://oluwadara-olasunkanmi.vercel.app/)
 - 📊 Tableau Public: [View my dashboards](https://public.tableau.com/app/profile/olasunkanmi.oluwadara/vizzes)  
----
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical" alt="GitHub Stats"/>
-</p>
 
